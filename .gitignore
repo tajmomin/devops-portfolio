@@ -1,9 +1,5 @@
-nano .gitignore
-```
-Paste this:
-```
 *.log
-*.tmp
-.env
-node_modules/
-__pycache__/
+   *.tmp
+   .env
+   node_modules/
+   __pycache__/
